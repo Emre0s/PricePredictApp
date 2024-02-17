@@ -1,3 +1,3 @@
-![Resim 1 Açıklaması](https://i.imgur.com/3f9Quko.png)
-![Resim 2 Açıklaması](https://github.com/Emre0s/PricePredictApp/blob/main/assets/114955138/942b83d5-538b-493e-aebe-91b4ed0a1347.png)
-![Resim 3 Açıklaması](https://github.com/Emre0s/PricePredictApp/blob/main/assets/114955138/e25f193b-8eb6-4336-b238-617786ef6301.png)
+![1](https://i.imgur.com/3f9Quko.png)
+![2](https://i.imgur.com/gdX2lQ3.png)
+![3](https://i.imgur.com/xr8SrhG.png)
